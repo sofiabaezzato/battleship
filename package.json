@@ -5,7 +5,7 @@
     "**/*.scss"
   ],
   "version": "1.0.3",
-  "description": "",
+  "description": "A battleship game created in order to practice Test Driven Development",
   "main": "index.ts",
   "scripts": {
     "start": "webpack serve --open --config webpack.dev.js",
