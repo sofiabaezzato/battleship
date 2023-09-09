@@ -60,7 +60,8 @@ describe('Gameboard test', () => {
         gameboard.receiveAttack(5, 6)
         gameboard.receiveAttack(5, 7)
         expect(gameboard.isGameover()).toBe(true)
-      })
+    })
+
 
     
 })

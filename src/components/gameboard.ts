@@ -114,4 +114,4 @@ class Gameboard {
     }
 }
 
-export { Gameboard }
+export { Gameboard, BOARD_SIZE}
